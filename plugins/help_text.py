@@ -48,7 +48,7 @@ async def start(bot, update):
                     InlineKeyboardButton(
                         "Auto Filter Bot ⚡", url="https://t.me/pbautofilter"
                     ),
-                    InlineKeyboardButton("Movies Channel " 🎬", url="https://t.me/PB_ChaNneL_BoTs_2022"),
+                    InlineKeyboardButton("Movies Channel 🎬", url="https://t.me/PB_ChaNneL_BoTs_2022"),
                 ],
                 [InlineKeyboardButton("XRename Bot📝", url="https://t.me/X_Renamebot")],
 
