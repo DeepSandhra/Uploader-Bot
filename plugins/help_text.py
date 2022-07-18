@@ -46,11 +46,13 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Auto Filter Bot ⚡", url="https://t.me/Zsearcherbot"
+                        "Auto Filter Bot ⚡", url="https://t.me/pbautofilter"
                     ),
-                    InlineKeyboardButton(" Channel 👨🏻‍💻", url="https://t.me/cyniteBots"),
+                    InlineKeyboardButton("Movies Channel " 🎬", url="https://t.me/PB_ChaNneL_BoTs_2022"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/teamx69")],
+                [InlineKeyboardButton("XRename Bot📝", url="https://t.me/X_Renamebot")],
+
+           [InlineKeyboardButton("File to Link 🔗", url="https://t.me/File_ToLinKbot")],
             ]
         ),
         reply_to_message_id=update.message_id
